@@ -1,0 +1,2 @@
+export const WEATHER_DETAILS = 'WEATHER_DETAILS'
+
